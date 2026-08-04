@@ -6,7 +6,7 @@ Co-op in financial planning at **Saudi Aramco**, audit & assurance at **Ratimah 
 
 🎯 Currently job-hunting across banking, consulting, audit, and corporate finance roles in Saudi Arabia.
 
-🌐 **[Portfolio & CV](https://ali-ahmed-obaid.github.io)**  ·  💼 **[LinkedIn](https://www.linkedin.com/in/aliahmedobaid)**  ·  ✉️ **ali.ahmed.obaid2@gmail.com**  ·  📍 Eastern Province, Saudi Arabia
+🌐 **[Portfolio & CV](https://ali-ahmed-obaid.github.io)**  ·  💼 **[LinkedIn](https://www.linkedin.com/in/aliahmedobaid)**  ·  ✉️ **ali.ahmed.obaid2@gmail.com**  ·  📱 **+966 508 180 969**  ·  📍 Eastern Province, Saudi Arabia
 
 ---
 
