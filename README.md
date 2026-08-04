@@ -6,7 +6,7 @@ Co-op in financial planning at **Saudi Aramco**, audit & assurance at **Ratimah 
 
 🎯 Currently job-hunting across banking, consulting, audit, and corporate finance roles in Saudi Arabia.
 
-🌐 **[ali-ahmed-obaid.github.io](https://ali-ahmed-obaid.github.io)** — CV and full project portfolio
+🌐 **[Portfolio & CV](https://ali-ahmed-obaid.github.io)**  ·  💼 **[LinkedIn](https://www.linkedin.com/in/aliahmedobaid)**  ·  ✉️ **ali.ahmed.obaid2@gmail.com**  ·  📍 Eastern Province, Saudi Arabia
 
 ---
 
@@ -54,9 +54,3 @@ Year-End Accountability Reports, weekly and monthly performance reporting across
 Financial statement audits under SOCPA standards, internal control evaluation, substantive testing, and Zakat & Tax advisory support.
 
 **Certifications** — IBM Project-Based Learning in Data Analysis · PwC US Audit Job Simulation · McKinsey Forward Program · Bloomberg Market Concepts
-
----
-
-## 📫 Connect
-
-🌐 [Portfolio](https://ali-ahmed-obaid.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/aliahmedobaid) · ✉️ ali.ahmed.obaid2@gmail.com
