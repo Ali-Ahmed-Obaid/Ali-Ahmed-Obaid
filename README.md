@@ -1,85 +1,57 @@
-# Hi, I'm Ali Obaid 👋
+# Ali Ahmed Obaid
 
-Finance graduate from KFUPM with experience in financial planning, KPI reporting and audit. I build financial models, investment research and practical financial-data tools.
+### Financial Analyst · FMVA® · Founder of RUKNasi · KFUPM Finance
 
-I am currently building **[RUKNasi](https://ruknasi.com)**, a bilingual platform that makes Saudi financial statements easier to find, read, compare and download.
+I turn financial statements into decision-ready analysis. My work spans credit and portfolio analysis, financial planning, KPI reporting, audit, valuation, and financial-data products for the Saudi market.
 
-🌐 **[Portfolio & CV](https://ali-ahmed-obaid.github.io)** · 💼 **[LinkedIn](https://www.linkedin.com/in/aliahmedobaid)** · ✉️ **ali.ahmed.obaid2@gmail.com** · 📱 **+966 508 180 969** · 📍 Eastern Province, Saudi Arabia
-
----
-
-## Featured Work
-
-### [RUKNasi — Saudi Financial Statements Platform](https://ruknasi.com)
-
-**Founder & Financial Data Analyst (Part-time) · Mar 2026–Present**
-
-[Visit the platform](https://ruknasi.com) · [Read the case study](https://ali-ahmed-obaid.github.io/ruknasi.html)
-
-RUKNasi brings Saudi-listed companies’ financial statements, filings, dividends and sector comparisons into one research platform. Users select a company and reporting period to read, compare and download financial data, with links back to the original issuer disclosures.
-
-**Current early demo:** 20 Saudi-listed companies · 1,233 financial statements · 247 reporting periods · Banking, energy and telecommunications.
-
-`Financial reporting` · `Financial data` · `React` · `TypeScript` · `Research platform`
-
-> Figures are drawn from published issuer disclosures. RUKNasi is for research and education, not investment advice.
-
-### [The Disappearing Dividend — 155-Year Study of US Payout Policy](https://github.com/Ali-Ahmed-Obaid/The-Disappearing-Dividend-155-Year-Study-of-Dividends-Policy-Graduation-Project-2-)
-
-**Graduation Project.** A 155-year study of US dividend policy from 1871–2023, examining the shift from cash dividends to share buybacks after 1982.
-
-Built a fully linked Excel model and Python analysis across 1,830 monthly observations, including Lintner regressions, crisis-period analysis and tests of DeAngelo’s life-cycle theory across 466 S&P 500 firms.
-
-`Web & Power BI dashboards` · `Excel model` · `Python` · `Report + deck`
-
-### [Financial Modeling Project — Almarai “Cow-and-Alfalfa” Model](https://github.com/Ali-Ahmed-Obaid/Financial-Modeling-Project)
-
-Three-statement operating model, DCF valuation and 50,000-path Monte Carlo simulation for Almarai (Tadawul: 2280).
-
-15-sheet Excel model with 1,449 live formulas, cross-checked against a Python engine. Estimated fair value: **SAR 29.79** versus a market price of **SAR 43.60**.
-
-`Financial modeling` · `DCF valuation` · `Monte Carlo simulation` · `Excel` · `Python`
-
-### [Tadawul Momentum Lab](https://github.com/Ali-Ahmed-Obaid/Tadawul-Momentum-Lab-Project)
-
-A cross-sectional 12-month momentum and volatility-scaling strategy across 30 Tadawul-listed companies, benchmarked against TASI and tested out of sample through 2025–2026.
-
-`Equity research` · `Portfolio strategy` · `Python` · `Tadawul`
-
-### [Derivatives Time Machine](https://github.com/Ali-Ahmed-Obaid/Derivaties-Project)
-
-Could a Gulf airline’s 2023 fuel hedge have protected it from the 2026 oil shock? A derivatives case study testing hedge design against a real market scenario.
-
-`Derivatives` · `Risk management` · `Case study`
-
-### [Projects & Certifications](https://github.com/Ali-Ahmed-Obaid/Projects-Certifications)
-
-Archive of 15+ projects, 20+ research reports, 20+ presentations and 20+ certifications across accounting, economics, corporate finance and Islamic finance.
+[Portfolio](https://ali-ahmed-obaid.github.io) · [LinkedIn](https://www.linkedin.com/in/aliahmedobaid) · [RUKNasi](https://ruknasi.com) · [Email](mailto:ali3byd@gmail.com)
 
 ---
 
-## Skills & Tools
+## Current work
 
-**Financial Analysis & Reporting**  
-`Financial Reporting` · `Financial Modeling` · `Three-Statement Modeling` · `DCF Valuation` · `Budget & Variance Analysis`
+**Financial Analyst — Raya Financing**
+Reviewing financial statements for credit and portfolio analysis and preparing performance and KPI reporting for management.
 
-**Accounting & Audit**  
-`Account Reconciliation` · `Internal Controls` · `SOCPA Standards` · `Zakat & Tax Compliance`
+**Founder & Financial Data Analyst — [RUKNasi](https://ruknasi.com)**
+Building a Saudi financial analysis and valuation platform that connects source-linked statements with DCF models, comparable-company analysis, filings, dividends, ratios, and sector comparisons.
 
-**Tools**  
-`Advanced Excel` · `VBA` · `Power BI` · `Python` · `TypeScript` · `Bloomberg Market Concepts`
+`53 companies` · `2,500+ statements` · `DCF valuation` · `Comparable companies` · `Source-linked data`
 
----
+[Explore the platform](https://ruknasi.com) · [Read the founder case study](https://ali-ahmed-obaid.github.io/ruknasi.html)
+
+## Selected work
+
+| Project | What it demonstrates | Evidence |
+|---|---|---|
+| **[The Disappearing Dividend](https://github.com/Ali-Ahmed-Obaid/The-Disappearing-Dividend-155-Year-Study-of-Dividends-Policy-Graduation-Project-2-)** | Long-horizon payout-policy research, financial modeling, and reproducible analysis | 155 years · 1,830 monthly observations · 9 crises · 466 S&P 500 firms |
+| **[Almarai Financial Model](https://github.com/Ali-Ahmed-Obaid/Financial-Modeling-Project)** | Three-statement modeling, DCF valuation, and Monte Carlo simulation | 15-sheet model · 1,449 formulas · 50,000 simulation paths |
+| **[Tadawul Momentum Lab](https://github.com/Ali-Ahmed-Obaid/Tadawul-Momentum-Lab-Project)** | Equity research, portfolio construction, and out-of-sample testing | 30 Saudi-listed companies · TASI benchmark · volatility scaling |
+| **[Derivatives Time Machine](https://github.com/Ali-Ahmed-Obaid/Derivaties-Project)** | Applied risk management and hedge design | Gulf airline jet-fuel hedge · historical shock test |
+| **[Projects & Certifications](https://github.com/Ali-Ahmed-Obaid/Projects-Certifications)** | Breadth across accounting, economics, corporate finance, and Islamic finance | 15+ projects · 20+ reports · 20+ certifications |
+
+## Experience
+
+- **Raya Financing** — Financial Analyst, Tamheer · Aug 2026–Present
+- **RUKNasi** — Founder & Financial Data Analyst, part-time · Mar 2026–Present
+- **Ratimah Accounting and Audit Firm** — Audit & Assurance Intern · Sep–Dec 2025
+- **Saudi Aramco** — Co-op, Financial Planning Department · Aug–Dec 2024
+
+## Finance toolkit
+
+**Analysis & valuation**
+Financial statement analysis · Credit and portfolio analysis · Three-statement modeling · DCF · Comparable companies · Scenario and sensitivity analysis
+
+**Reporting & assurance**
+KPI and variance reporting · Account reconciliation · Internal controls · SOCPA standards · Zakat and tax support
+
+**Tools**
+Excel · Python · Power BI · PowerPoint · Bloomberg Market Concepts
 
 ## Background
 
-**BSc Finance**, King Fahd University of Petroleum & Minerals (KFUPM) · Jan 2020 – Jun 2025
+- **FMVA® — Financial Modeling & Valuation Analyst**, Corporate Finance Institute, 2026
+- **BSc in Finance**, King Fahd University of Petroleum & Minerals (KFUPM), 2025
+- Arabic (native) · English (professional)
 
-**Saudi Aramco** — Co-op, Planning Department · Aug 2024 – Dec 2024  
-Year-end accountability reporting, weekly and monthly KPI reporting, transfer-pricing analysis and Quarterly Business Review preparation.
-
-**Ratimah Accounting and Audit Firm** — Audit & Assurance Intern · Sep 2025 – Dec 2025  
-Financial-statement audits under SOCPA standards, internal-control evaluation, substantive testing, and Zakat & Tax advisory support.
-
-**Certifications**  
-IBM Project-Based Learning in Data Analysis · PwC US Audit Job Simulation · McKinsey Forward Program · Bloomberg Market Concepts
+<sub>Eastern Province, Saudi Arabia · Last updated August 2026</sub>
