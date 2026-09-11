@@ -1,6 +1,6 @@
 # Ali Ahmed Obaid
 
-### Financial Analyst · FMVA® · Founder of RUKNasi · KFUPM Finance
+### Financial Analyst  · Founder of RUKNasi · KFUPM Finance
 
 I turn financial statements into decision-ready analysis. My work spans credit and portfolio analysis, financial planning, KPI reporting, audit, valuation, and financial-data products for the Saudi market.
 
