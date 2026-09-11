@@ -50,7 +50,6 @@ Excel · Python · Power BI · PowerPoint · Bloomberg Market Concepts
 
 ## Background
 
-- **FMVA® — Financial Modeling & Valuation Analyst**, Corporate Finance Institute, 2026
 - **BSc in Finance**, King Fahd University of Petroleum & Minerals (KFUPM), 2025
 - Arabic (native) · English (professional)
 
